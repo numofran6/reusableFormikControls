@@ -1,4 +1,5 @@
-//this template renders the various form fields in the Formik Container
+// this template renders the various form fields in the Formik Container
+// check 'LoginForm.js' for an example of the render
 
 import React from 'react';
 import Checkbox from './Checkbox';
