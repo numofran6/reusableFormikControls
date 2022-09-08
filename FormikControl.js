@@ -1,3 +1,5 @@
+//this template renders the various form fields in the Formik Container
+
 import React from 'react';
 import Checkbox from './Checkbox';
 import Input from './Input';
