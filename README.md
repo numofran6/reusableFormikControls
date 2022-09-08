@@ -1,2 +1,2 @@
 # reusableFormikControls
-Reusable controls for forms using React Formik
+Reusable form field controls for forms created using React Formik
